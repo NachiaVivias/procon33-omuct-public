@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "procon2022-omuct", "procon2022-omuct\procon2022-omuct.vcxproj", "{9E116BF2-0545-4873-AD0E-4337A06B15AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E116BF2-0545-4873-AD0E-4337A06B15AF}.Debug|x64.ActiveCfg = Debug|x64
+		{9E116BF2-0545-4873-AD0E-4337A06B15AF}.Debug|x64.Build.0 = Debug|x64
+		{9E116BF2-0545-4873-AD0E-4337A06B15AF}.Release|x64.ActiveCfg = Release|x64
+		{9E116BF2-0545-4873-AD0E-4337A06B15AF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95A5821A-4E62-4ACD-82F4-CB57709B3A6F}
+	EndGlobalSection
+EndGlobal
